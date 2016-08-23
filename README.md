@@ -8,4 +8,4 @@
 * **结束语**: [JMeter](http://jmeter.apache.org/)的最佳实践
 
 
-本文本使用的JMeter版本：**JMeter 3.0**
+文中使用的JMeter版本：**JMeter 3.0**
