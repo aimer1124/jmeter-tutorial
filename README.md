@@ -6,3 +6,6 @@
 * **使用JMeter**: 项目中常用的[JMeter](http://jmeter.apache.org/)功能
 * **完善JMeter**: 丰富[JMeter](http://jmeter.apache.org/)在项目中的具体使用
 * **结束语**: [JMeter](http://jmeter.apache.org/)的最佳实践
+
+
+本文本使用的JMeter版本：**JMeter 3.0**
