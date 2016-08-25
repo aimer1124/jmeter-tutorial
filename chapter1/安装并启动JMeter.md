@@ -19,3 +19,4 @@ JMeter官方版本是`免安装`的，只需要从官网获取压缩包即可。
 * `Windows`电脑启动
   * 双击`jmeter.bat`
 * ``命令行``启动: `java -jar ApacheJMeter.jar`
+* 启动成功后，便可看到JMeter的UI界面
