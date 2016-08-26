@@ -13,5 +13,6 @@
 * **进阶使用**: 项目中如何高效识别出哪些业务需要测试，如何让[JMeter](http://jmeter.apache.org/)的性能发挥的最好，[JMeter](http://jmeter.apache.org/)与[持续集成](http://www.martinfowler.com/articles/continuousIntegration.html)的结合使用，性能测试报告的注意事项
 * **结束语**: 建议&End
 
-
-文中使用的JMeter版本：**[JMeter 3.0](http://jmeter.apache.org/changes.html)**
+## 说明
+* 文中使用的[JMeter](http://jmeter.apache.org/)版本：**[JMeter 3.0](http://jmeter.apache.org/changes.html)**
+* 文中关于[JMeter](http://jmeter.apache.org/)的功能，不会在详尽，**够用足以**

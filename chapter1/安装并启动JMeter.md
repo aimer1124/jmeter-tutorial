@@ -3,15 +3,15 @@
 
 * 安装Java7或更新的版本
 
-## 安装JMeter
+## 安装[JMeter](http://jmeter.apache.org/)
 
-JMeter官方版本是`免安装`的，只需要从官网获取压缩包即可。
+[JMeter](http://jmeter.apache.org/)官方版本是`免安装`的，只需要从官网获取压缩包即可。
 
 * 打开[http://jmeter.apache.org/download_jmeter.cgi](http://jmeter.apache.org/download_jmeter.cgi)页面
 * 下载`Binaries`中的**apache-jmeter-3.0**，tgz或zip格式均可
 * 解压下载的压缩包，安装JMeter完成
 
-## 启动JMeter
+## 启动[JMeter](http://jmeter.apache.org/)
 
 * 进入解压的**apache-jmeter-3.0/bin**目录
 * `MAC`电脑启动
@@ -19,4 +19,4 @@ JMeter官方版本是`免安装`的，只需要从官网获取压缩包即可。
 * `Windows`电脑启动
   * 双击`jmeter.bat`
 * ``命令行``启动: `java -jar ApacheJMeter.jar`
-* 启动成功后，便可看到JMeter的UI界面
+* 启动成功后，便可看到[JMeter](http://jmeter.apache.org/)的UI界面
