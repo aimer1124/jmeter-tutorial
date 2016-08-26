@@ -2,10 +2,8 @@
 
 * [简介](README.md)
 * [认识JMeter](chapter1/README.md)
-    * [了解JMeter](chapter1/了解JMeter.md)
-    * [安装及启动JMeter](chapter1/安装并启动JMeter.md)
+    * [了解并启动JMeter](chapter1/了解并启动JMeter.md)
     * [认识JMeter](chapter1/认识JMeter.md)
-    * [语言切换](chapter1/语言切换.md)
     * [第一个测试](chapter1/第一个测试.md)
 * [提高JMeter](chapter2/README.md)
     * [线程高并发](chapter2/线程高并发.md)
@@ -30,6 +28,6 @@
     * [JMeter最佳实践](chapter5/JMeter最佳实践.md)
     * [命令行执行JMeter](chapter5/命令行执行JMeter.md)
     * [CI与JMeter](chapter5/CI与JMeter.md)
+    * [性能测试常用专业述语](chapter5/性能测试常用专业述语.md)
     * [测试报告](chapter5/测试报告.md)
 * [结束语](end/README.md)
-
