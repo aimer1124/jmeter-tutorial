@@ -15,4 +15,4 @@
 
 ## 说明
 * 文中使用的[JMeter](http://jmeter.apache.org/)版本：**[JMeter 3.0](http://jmeter.apache.org/changes.html)**
-* 文中关于[JMeter](http://jmeter.apache.org/)的功能，不会在详尽，**够用足以**
+* 文中关于[JMeter](http://jmeter.apache.org/)的功能，不会很详尽，**够用足以**
