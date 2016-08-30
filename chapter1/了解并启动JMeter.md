@@ -38,9 +38,10 @@
 ### 启动[JMeter](http://jmeter.apache.org/)
 
 * 进入解压的**apache-jmeter-3.0/bin**目录
-* `MAC`电脑启动
-  * 运行`jmeter`
-* `Windows`电脑启动
-  * 双击`jmeter.bat`
-* ``命令行``启动: `java -jar ApacheJMeter.jar`
+* 启动方式
+  * `MAC`电脑启动
+    * 运行`jmeter`
+  * `Windows`电脑启动
+    * 双击`jmeter.bat`
+  * ``命令行``启动: `java -jar ApacheJMeter.jar`
 * 启动成功后，便可看到[JMeter](http://jmeter.apache.org/)的UI界面
