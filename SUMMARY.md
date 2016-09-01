@@ -25,11 +25,10 @@
     * [服务器分析](chapter4/服务器分析.md)
     * [扩展插件](chapter4/扩展插件.md)
 * [进阶使用](chapter5/README.md)
-    * [性能测试最佳实践](chapter5/性能测试最佳实践.md)
-    * [JMeter最佳实践](chapter5/JMeter最佳实践.md)
     * [命令行执行JMeter](chapter5/命令行执行JMeter.md)
     * [CI与JMeter](chapter5/CI与JMeter.md)
     * [性能测试常用专业述语](chapter5/性能测试常用专业述语.md)
     * [测试报告](chapter5/测试报告.md)
+    * [性能测试最佳实践](chapter5/性能测试最佳实践.md)
+    * [JMeter最佳实践](chapter5/JMeter最佳实践.md)
 * [结束语](end/README.md)
-
