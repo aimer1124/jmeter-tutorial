@@ -8,6 +8,6 @@
 * [概要结果](概要结果.md)
   * [JMeter](http://jmeter.apache.org/)自带的测试结果分析
 * [逻辑控件器](逻辑控件器.md)
-  * [JMeter](http://jmeter.apache.org/)自带`17`种控件器，满足测试场景中的各种需求
+  * 详解[JMeter](http://jmeter.apache.org/)自带`17`种控件器，满足测试场景中的各种需求
 * [结果树](chapter2/结果树.md)
   * 展示每次测试过程中的数据，并且支持各种形式查看结果
