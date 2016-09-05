@@ -12,7 +12,6 @@
     * [结果分析](chapter2/结果分析.md)
 * [完善JMeter](chapter3/README.md)
     * [HTTP信息头管理](chapter3/HTTP信息头管理.md)
-    * [HTTP Cookie管理器](chapter3/HTTP Cookie管理器.md)
     * [CSV文件数据集](chapter3/CSV文件数据集.md)
     * [变量](chapter3/自定义变量.md)
     * [正则表达式](chapter3/正则表达式.md)
