@@ -39,6 +39,7 @@
   * `Domain`: 作用域，对于有`作用域`要求的
   * `Path`: 域路径
   * `Secure`: 安全性，可使用默认不勾选
+* 示例代码: [CookieManager.jmx](../src/chapter3/CookieManager.jmx)
 
 ## 应用
 
