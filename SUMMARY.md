@@ -12,7 +12,7 @@
     * [结果分析](chapter2/结果分析.md)
 * [完善JMeter](chapter3/README.md)
     * [HTTP信息头管理](chapter3/HTTP信息头管理.md)
-    * [数据获取](chap3/数据获取.md)
+    * [数据获取](chapter3/数据获取.md)
     * [实战性能测试](chapter3/实战性能测试.md)
 * [分析测试](chapter4/README.md)
     * [断言结果详细分析](chapter4/断言结果详细分析.md)
