@@ -15,6 +15,7 @@
     * [CSV文件数据集](chapter3/CSV文件数据集.md)
     * [变量](chapter3/自定义变量.md)
     * [正则表达式](chapter3/正则表达式.md)
+    * [实战性能测试](chapter3/实战性能测试.md)
 * [分析测试](chapter4/README.md)
     * [断言结果详细分析](chapter4/断言结果详细分析.md)
     * [断言结果用处](chapter4/断言结果用处.md)
