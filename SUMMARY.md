@@ -16,7 +16,7 @@
     * [实战性能测试](chapter3/实战性能测试.md)
 * [分析测试](chapter4/README.md)
     * [断言结果详细分析](chapter4/断言结果详细分析.md)
-    * [概要结果详细分析](chapter4/结果详细分析.md)
+    * [结果详细分析](chapter4/结果详细分析.md)
     * [服务器分析](chapter4/服务器分析.md)
     * [扩展插件](chapter4/扩展插件.md)
 * [进阶使用](chapter5/README.md)
