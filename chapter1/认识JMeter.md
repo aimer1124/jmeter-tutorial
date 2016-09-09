@@ -17,7 +17,7 @@
 
 ## 界面
 
-<img src='../img/JMeter-UI.png' align='center'>
+<img src='../img/JMeter-UI.png' href='../img/JMeter-UI.png'>
 
 ### 功能区
 主要用于界面样式/启动/运行配制相关。
