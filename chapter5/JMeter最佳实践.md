@@ -16,10 +16,10 @@
 
 ## [WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)使用
 
-[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)是[JMeter](http://jmeter.apache.org/)官方提供的一个用于`临时`存放一些数据。如: 复制的请求/临时调整的变量集合。保存`测试计划`时，[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)是不会被保存的，除非你手动选择保存。
+[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)是[JMeter](http://jmeter.apache.org/)官方提供的一个用于`临时`存放一些数据。如: 复制请求及`部分元素`的应用。保存`测试计划`时，[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)是不会被保存的，除非你手动选择保存。
 
-上面说的感觉[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)其实没有啥用，**But**，[JMeter](http://jmeter.apache.org/)将一些特殊的元素应用于[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)中。如:
+上面说了[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)的功能，是不是感觉这东西没有啥用，**But**，[JMeter](http://jmeter.apache.org/)将一些特殊的元素应用于[WorkBench](http://jmeter.apache.org/usermanual/component_reference.html#WorkBench)中。如:
 
-- [HTTP(S) Test Script Recorder](http://jmeter.apache.org/usermanual/component_reference.html#HTTP(S)_Test_Script_Recorder<http://jmeter.apache.org/usermanual/component_reference.html#Property_Display>): 用于录制请求
-- [HTTP Mirror Server](http://jmeter.apache.org/usermanual/component_reference.html#HTTP_Mirror_Server): JMeter提供的镜像服务
+- [HTTP(S) Test Script Recorder](http://jmeter.apache.org/usermanual/component_reference.html): 用于**录制**请求，如果要使用`Recorder Controller`，`一定`要有这个元素的配制
+- [HTTP Mirror Server](http://jmeter.apache.org/usermanual/component_reference.html#HTTP_Mirror_Server): 微型镜像服务
 - [Property Display](http://jmeter.apache.org/usermanual/component_reference.html#Property_Display): 属性值的显示
