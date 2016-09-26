@@ -28,6 +28,7 @@
 ## 前提准备
 
 - 安装Java7或更新的版本
+- 配制完成Java的`环境变量`
 
 ## 安装[JMeter](http://jmeter.apache.org/)
 
