@@ -27,7 +27,7 @@
 
 ## 前提准备
 
-- 安装Java7或更新的版本
+- 安装`Java7`或``更新``的版本
 - 配制完成Java的`环境变量`
 
 ## 安装[JMeter](http://jmeter.apache.org/)
@@ -40,7 +40,7 @@
 
 ## 启动[JMeter](http://jmeter.apache.org/)
 
-- 进入解压的**apache-jmeter-3.0/bin**目录
+- 进入解压文件夹的**apache-jmeter-3.0/bin** `目录`
 - 启动方式
 
   - `MAC`电脑启动
