@@ -9,7 +9,7 @@
 - [简介](README.md)
 - [认识JMeter](chapter1/README.md)
 
-  - [了解并启动JMeter](chapter1/了解并启动JMeter.md)
+  - [了解并启动JMeter](chapter1/了解并启动JMeter.md)
   - [认识JMeter](chapter1/认识JMeter.md)
   - [第一个测试](chapter1/第一个测试.md)
 
