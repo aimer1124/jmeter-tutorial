@@ -1,6 +1,6 @@
 # 认识[JMeter](http://jmeter.apache.org/)
 
-- [了解并启动JMeter](了解并启动JMeter.md)
+- [了解并启动JMeter](了解并启动JMeter.md)
 
   - [JMeter](http://jmeter.apache.org/)是什么，用[JMeter](http://jmeter.apache.org/)可以做什么
   - 安装[JMeter](http://jmeter.apache.org/)，启动[JMeter](http://jmeter.apache.org/)的几种方式

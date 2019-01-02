@@ -47,3 +47,4 @@
 
 - 文中使用的[JMeter](http://jmeter.apache.org/)版本：**[JMeter 3.0](http://jmeter.apache.org/changes.html)**
 - 文中关于[JMeter](http://jmeter.apache.org/)的功能，不会很详尽，**够用足以**
+- 源GitBook地址:[https://aimer1124.gitbooks.io/jmeter-tutorial/content/](https://aimer1124.gitbooks.io/jmeter-tutorial/content/)
