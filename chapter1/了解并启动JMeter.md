@@ -35,13 +35,13 @@
 [JMeter](http://jmeter.apache.org/)官方版本是`免安装`的，只需要从官网获取压缩包即可。
 
 - 打开<http://jmeter.apache.org/download_jmeter.cgi>页面
-- 下载`Binaries`中的**apache-jmeter-3.0**，tgz或zip格式均可
+- 下载`Binaries`中的**apache-jmeter-5.0**，tgz或zip格式均可
 - 解压下载的压缩包，安装JMeter完成
 
 ## 启动[JMeter](http://jmeter.apache.org/)
 
-- 进入解压文件夹的**apache-jmeter-3.0/bin** `目录`
-- 启动方式
+- 进入解压文件夹的**apache-jmeter-5.0/bin** `目录`
+- 三种启动方式，选择适合的即可
 
   - `MAC`电脑启动
 
