@@ -63,5 +63,5 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.1+13-LTS, mixed mode)
 
 - 启动成功后，便可看到[JMeter](http://jmeter.apache.org/)的UI界面
 
-![JMeter5.0 UI 样式](../img/JMeterInitUI.png)
+![JMeter5.0 UI 样式](../img/chapter1/JMeterInitUI.png)
 

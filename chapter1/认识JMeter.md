@@ -17,7 +17,7 @@
 
 # 界面
 
-![](../img/JMeter-UI.png)
+![](../img/chapter1/JMeter-UI.png)
 此截图不包含`菜单区`
 
 ## 功能区
