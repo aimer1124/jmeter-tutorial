@@ -16,7 +16,7 @@
 - Web - HTTP, HTTPS
 - SOAP / REST
 - FTP
-- Database****
+- Database
 - LDAP
 - Message-oriented middleware (MOM)
 - Mail
