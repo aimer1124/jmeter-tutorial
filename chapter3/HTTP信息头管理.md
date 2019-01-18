@@ -4,7 +4,7 @@
 
 ## 配制说明
 
-![](../img/HTTPHeaderManager.png)
+![](../img/chapter3/HTTPHeaderManager.png)
 
 - `Headers Stored in the Header Manager`: 用于配制`HTTP`请求时的头信息
 
@@ -15,9 +15,9 @@
 
 ## 应用
 
-![](../img/HTTPRequestHeader.png)
+![](../img/chapter3/HTTPRequestHeader.png)
 
-以上`Request Headers`中的内容均可使用`HTTP Header Manager`来模拟，下面简要说明部分使用。
+以上`简书-首页`的`Request Headers`，其中的内容均可使用`HTTP Header Manager`来模拟，下面简要说明部分使用。
 
 - 使用`User-Agent`来模拟不同的的客户端发起的请求，如: 手机端/指定浏览器版本
 - 使用`Accept`来模拟文件格式
@@ -30,7 +30,7 @@
 
 ## 配制说明
 
-![](../img/HTTPCookieManager.png)
+![](../img/chapter3/HTTPCookieManager.png)
 
 - `Options`
 
