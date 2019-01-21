@@ -10,3 +10,7 @@ before_install:
 branches:
   only:
     - JMeter5.0
+
+after_success:
+  - cd ./apache-jmeter-5.0/bin
+  - ./jmeter -h
