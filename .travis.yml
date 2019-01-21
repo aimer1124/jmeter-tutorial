@@ -1,0 +1,8 @@
+language: java
+
+jdk:
+  - openjdk11
+
+before_install:
+  - wget http://apache.01link.hk//jmeter/binaries/apache-jmeter-5.0.tgz
+  - tar -xzvf apache-jmeter-5.0.tgz
