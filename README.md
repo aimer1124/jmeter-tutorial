@@ -1,8 +1,12 @@
+编写进度管理：[https://github.com/aimer1124/jmeter-tutorial/projects/1](https://github.com/aimer1124/jmeter-tutorial/projects/1)
+
 # 本文目的
 
-- **独立**完成项目的性能测试
+- 面向新手，学习后可以使用[JMeter](http://jmeter.apache.org/)**独立**完成项目的性能测试
 - 快速分析并使用[JMeter](http://jmeter.apache.org/)定位出项目**性能测试结果**
 - 产出**有价值**的性能测试报告
+
+[![Build Status](https://travis-ci.org/aimer1124/jmeter-tutorial.svg?branch=JMeter5.0)](https://travis-ci.org/aimer1124/jmeter-tutorial)
 
 # 目录
 
@@ -37,7 +41,7 @@
 
   - [命令行执行JMeter](chapter5/命令行执行JMeter.md)
   - [性能测试常用专业述语](chapter5/性能测试常用专业述语.md)
-  - [JMeter最佳实践](chapter5/JMeter最佳实践.md)
+  - [JMeter最佳实践](chapter5/JMeter官方最佳实践.md)
   - [性能测试最佳实践](chapter5/性能测试最佳实践.md)
   - [测试报告](chapter5/测试报告.md)
 
@@ -45,7 +49,10 @@
 
 # 说明
 
-- 文中使用的[JMeter](http://jmeter.apache.org/)版本：**[JMeter 3.0](http://jmeter.apache.org/changes.html)**
+- 基础环境信息：
+    - OS:macOS Mojave 10.14.2
+    - JDK:11.0.1
+    - JMeter：5.0
+
 - 文中关于[JMeter](http://jmeter.apache.org/)的功能，不会很详尽，**够用足以**
-- 编写项进度管理：[https://github.com/aimer1124/jmeter-tutorial/projects/1](https://github.com/aimer1124/jmeter-tutorial/projects/1)
-- 源GitBook地址:[https://aimer1124.gitbooks.io/jmeter-tutorial/content/](https://aimer1124.gitbooks.io/jmeter-tutorial/content/)
+- 源GitBook地址:[https://aimer1124.gitbooks.io/jmeter-tutorial/content/](https://aimer1124.gitbooks.io/jmeter-tutorial/content/)，停止更新

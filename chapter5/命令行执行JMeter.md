@@ -21,17 +21,8 @@
 - 应用
 
   - `jmeter -t test.jmx`: 打开JMeter的**GUI**客户端，**同时** 打开`test.jmx`文件
+  
   - `jmeter -n -t test.jmx`: 使用**非GUI**模式，**直接** 进行测试。日志输出:
-
-    ```
-    Creating summariser <summary>
-    Created the tree successfully using PerforMon.jmx
-    Starting the test @ Tue Sep 13 19:06:38 CST 2016 (1473764798835)
-    Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
-    summary =      3 in 00:00:01 =    2.4/s Avg:   569 Min:   563 Max:   579 Err:     0 (0.00%)
-    Tidying up ...    @ Tue Sep 13 19:06:40 CST 2016 (1473764800147)
-    ... end of run
-    ```
 
   - `jmeter -n -t test.jmx -l test.jtl`: 使用**非GUI**模式，并将测试结果保存至`test.jtl`文件中
 
