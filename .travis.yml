@@ -3,14 +3,12 @@ language: java
 jdk:
   - openjdk11
 
-before_install:
+install:
   - wget http://apache.01link.hk//jmeter/binaries/apache-jmeter-5.0.tgz
   - tar -xzvf apache-jmeter-5.0.tgz
+  - cd ./apache-jmeter-5.0/bin
+  - ./jmeter -h
 
 branches:
   only:
     - JMeter5.0
-
-after_success:
-  - cd ./apache-jmeter-5.0/bin
-  - ./jmeter -h
