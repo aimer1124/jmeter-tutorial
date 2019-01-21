@@ -6,8 +6,7 @@ jdk:
 install:
   - wget http://apache.01link.hk//jmeter/binaries/apache-jmeter-5.0.tgz
   - tar -xzvf apache-jmeter-5.0.tgz
-  - cd ./apache-jmeter-5.0/bin
-  - ./jmeter -h
+  - ./apache-jmeter-5.0/bin/jmeter -n -t src/chapter1/HTTPRequest.jmx
 
 branches:
   only:

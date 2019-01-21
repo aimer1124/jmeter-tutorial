@@ -2,9 +2,11 @@
 
 # 本文目的
 
-- **独立**完成项目的性能测试
+- 面向新手，学习后可以使用[JMeter](http://jmeter.apache.org/)**独立**完成项目的性能测试
 - 快速分析并使用[JMeter](http://jmeter.apache.org/)定位出项目**性能测试结果**
 - 产出**有价值**的性能测试报告
+
+[![Build Status](https://travis-ci.org/aimer1124/jmeter-tutorial.svg?branch=JMeter5.0)](https://travis-ci.org/aimer1124/jmeter-tutorial)
 
 # 目录
 
