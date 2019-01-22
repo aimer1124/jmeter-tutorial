@@ -50,6 +50,6 @@
     - OS:macOS Mojave 10.14.2
     - JDK:11.0.1
     - JMeter：5.0
-- 编写进度管理：[https://github.com/aimer1124/jmeter-tutorial/projects/1](https://github.com/aimer1124/jmeter-tutorial/projects/1)
+- QQ交流群：**478527666**
 - 文中关于[JMeter](http://jmeter.apache.org/)的功能，不会很详尽，**够用足以**
 - 源GitBook地址:[https://aimer1124.gitbooks.io/jmeter-tutorial/content/](https://aimer1124.gitbooks.io/jmeter-tutorial/content/)，停止更新
