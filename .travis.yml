@@ -12,7 +12,6 @@ script:
   - cat fileName.txt
   - for file in $(<fileName.txt)
   - do
-  - #echo $file
   - result=$(./apache-jmeter-5.0/bin/jmeter -n -t $file | grep 'Err:' | sed 's/.*(\([0-9]*\).*/\1/g')
   -   if [ $result -gt 0 ]
   -   then
@@ -26,23 +25,3 @@ script:
 branches:
   only:
     - master
-
-
-
-
-#!/usr/bin/env bash
-
-  find ./src/ -name "*.jmx" > fileName.txt
-
-  #cat fileName.txt
-
-  for file in $(<fileName.txt)
-  do
-  #echo $file
-  result=$(./apache-jmeter-5.0/bin/jmeter -n -t $file | grep 'Err:' | sed 's/.*(\([0-9]*\).*/\1/g')
-  if [ $result -gt 0 ]
-  then
-  echo $file failed
-  exit 1
-  fi
-  done
