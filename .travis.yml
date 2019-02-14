@@ -1,4 +1,7 @@
 language: java
+cache:
+  directories:
+    - apache-jmeter-5.0
 
 jdk:
   - openjdk11
@@ -8,19 +11,7 @@ install:
   - tar -xzvf apache-jmeter-5.0.tgz
 
 script:
-  - find ./src/ -name "*.jmx" > fileName.txt
-  - cat fileName.txt
-  - for file in $(<fileName.txt)
-  - do
-  - result=$(./apache-jmeter-5.0/bin/jmeter -n -t $file | grep 'Err:' | sed 's/.*(\([0-9]*\).*/\1/g')
-  -   if [ $result -gt 0 ]
-  -   then
-  -     echo $file fail
-  -     exit 1
-  -   else
-  -     echo $file succedd
-  -   fi
-  - done
+  - ./runScripts.sh
 
 branches:
   only:
