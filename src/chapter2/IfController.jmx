@@ -27,7 +27,7 @@
       </ThreadGroup>
       <hashTree>
         <IfController guiclass="IfControllerPanel" testclass="IfController" testname="If Controller" enabled="true">
-          <stringProp name="IfController.condition">${username} == &apos;ZhangSan&apos; </stringProp>
+          <stringProp name="IfController.condition">${usrname} == &apos;zhangsan&apos; </stringProp>
           <boolProp name="IfController.evaluateAll">false</boolProp>
         </IfController>
         <hashTree>

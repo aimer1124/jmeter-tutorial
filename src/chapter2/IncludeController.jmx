@@ -27,7 +27,7 @@
       </ThreadGroup>
       <hashTree>
         <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="Include Controller" enabled="true">
-          <stringProp name="IncludeController.includepath">/Users/yjshi/Downloads/All/jmeter-tutorial/src/chapter2/IfController.jmx</stringProp>
+          <stringProp name="IncludeController.includepath">./IfController.jmx</stringProp>
         </IncludeController>
         <hashTree/>
         <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
