@@ -1,7 +1,4 @@
 language: java
-cache:
-  directories:
-    - apache-jmeter-5.0
 
 jdk:
   - openjdk11
