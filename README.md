@@ -1,5 +1,5 @@
 
-# 本文目的  [![Build Status](https://travis-ci.org/aimer1124/jmeter-tutorial.svg?branch=JMeter5.0)](https://travis-ci.org/aimer1124/jmeter-tutorial) 
+# 本文目的  [![Build Status](https://travis-ci.org/aimer1124/jmeter-tutorial.svg?branch=master)](https://travis-ci.org/aimer1124/jmeter-tutorial) 
 
 - 面向新手，学习后可以使用[JMeter](http://jmeter.apache.org/)**独立**完成项目的性能测试
 - 快速分析并使用[JMeter](http://jmeter.apache.org/)定位出项目**性能测试结果**
