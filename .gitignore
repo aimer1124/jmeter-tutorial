@@ -16,4 +16,4 @@ _book
 *.pdf
 .idea
 jmeter-tutorial.iml
-.jmeter.log
+jmeter.log
