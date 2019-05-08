@@ -5,7 +5,7 @@ jdk:
 
 install:
   - wget http://ftp.cuhk.edu.hk/pub/packages/apache.org//jmeter/binaries/apache-jmeter-5.1.1.tgz
-  - tar -xzvf apache-jmeter-5.0.tgz
+  - tar -xzvf apache-jmeter-5.1.1.tgz
 
 script:
   - ./runScripts.sh
