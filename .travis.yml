@@ -4,7 +4,7 @@ jdk:
   - openjdk11
 
 install:
-  - wget http://apache.01link.hk//jmeter/binaries/apache-jmeter-5.0.tgz
+  - wget http://ftp.cuhk.edu.hk/pub/packages/apache.org//jmeter/binaries/apache-jmeter-5.1.1.tgz
   - tar -xzvf apache-jmeter-5.0.tgz
 
 script:
