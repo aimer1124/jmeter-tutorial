@@ -8,7 +8,7 @@ successCount=0
 for file in $(<fileName.txt)
 do
     scriptsCount=$((scriptsCount+1))
-    result=$(./apache-jmeter-5.1.1/bin/jmeter -n -t $file | grep 'Err:' | sed 's/.*(\([0-9]*\).*/\1/g')
+    result=$(./apache-jmeter-${jmeter_version}/bin/jmeter -n -t $file | grep 'Err:' | sed 's/.*(\([0-9]*\).*/\1/g')
     if [ $result -gt 0 ]
     then
         echo $file failed

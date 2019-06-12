@@ -1,14 +1,17 @@
 language: java
 
+env:
+  - jmeter_version: 5.1.1
+
 jdk:
   - openjdk11
 
 install:
-  - wget http://ftp.cuhk.edu.hk/pub/packages/apache.org//jmeter/binaries/apache-jmeter-5.1.1.tgz
-  - tar -xzvf apache-jmeter-5.1.1.tgz
+  - wget http://ftp.cuhk.edu.hk/pub/packages/apache.org//jmeter/binaries/apache-jmeter-${jmeter_version}.tgz
+  - tar -xzvf apache-jmeter-${jmeter_version}.tgz
 
 script:
-  - ./runScripts.sh
+  - ./runScripts.sh ${jmeter_version}
 
 branches:
   only:
