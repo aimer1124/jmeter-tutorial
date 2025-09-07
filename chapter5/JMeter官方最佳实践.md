@@ -2,6 +2,7 @@
 
 官方给出了一些使用[JMeter](http://jmeter.apache.org/)的最佳实践，本文只对核心信息进行说明。[JMeter](http://jmeter.apache.org/)的另外一个功能`WorkBench`也是使用[JMeter](http://jmeter.apache.org/)的一个很好功能，如果要使用`Recorder Controller`，这个一定要会使用。
 
+
 ## 官方最佳实践
 
 - [JMeter](http://jmeter.apache.org/)官方给出了15条最佳实践，原文地址: [best-practices](http://jmeter.apache.org/usermanual/best-practices.html)，有兴趣的朋友可以自行去查看
